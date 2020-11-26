@@ -1,4 +1,4 @@
-## REUZSC
+## zhcuc
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/zhcuc16/zhcuc-bot
+> cd zhcuc-bot
 > bash install.sh
 > node index.js
 ```
@@ -38,9 +38,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | ALAY                              |
 |       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
 |       ✅       | WIKIPEDIA                         |
-|       ✅       | ARTI NAMA                         |
-|       ✅       | SHOLAT                            |
-|       ✅       | QURAN                             |
+|       ✅       | ARTI NAMA                         |                                                  |
 |       ✅       | KAMING SUN                        |
 
 ket : ✅ : aktif
